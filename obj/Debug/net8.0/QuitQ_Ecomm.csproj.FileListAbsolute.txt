@@ -1,0 +1,8 @@
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.csproj.AssemblyReference.cache
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.AssemblyInfoInputs.cache
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.AssemblyInfo.cs
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.csproj.CoreCompileInputs.cache
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\INDHU\source\repos\QuitQ\QuitQ\obj\Debug\net8.0\QuitQ_Ecomm.sourcelink.json
