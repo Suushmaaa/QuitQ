@@ -73,7 +73,7 @@ QuitQ is a full-fledged e-commerce application developed using **ASP.NET Core We
 ## 🛠️ Future Enhancements
 - Implement real-time order tracking.
 - Integrate AI-based product recommendations.
-- Enhance UI with a frontend (React/Angular).
+- Enhance UI with a frontend (React).
 
 ## 📌 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
