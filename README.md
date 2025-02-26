@@ -18,6 +18,8 @@ QuitQ is a full-fledged e-commerce application developed using **ASP.NET Core We
 - **Logging & Monitoring**: Track application logs for better debugging.
 
 ## 🏗️ Tech Stack
+
+- **Frontend:** react
 - **Backend:** ASP.NET Core Web API
 - **Database:** Microsoft SQL Server
 - **Authentication:** JWT (JSON Web Token)
