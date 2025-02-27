@@ -1,0 +1,6 @@
+@QuitQ_Hexaware_HostAddress = http://localhost:5217
+
+GET {{QuitQ_Hexaware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
